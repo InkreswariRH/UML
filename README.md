@@ -10,4 +10,4 @@
 
 * Dalam repository ini juga disediakan contoh dari tiap-tiap elemen UML tersebut terhadap sebuah topik yang saya tentukan, yaitu mengenai ***Aplikasi Jual Beli Online***.
 
-* Anda juga dapat membaca tulisan saya mengenai UML ini di Medium saya, di [Named Link](https://medium.com/@inesmediasosial/unified-modeling-language-uml-b3b66eee51c). Selain UML, juga terdapat konsep-konsep lain yang dapat anda baca dan semoga dapat bermanfaat bagi pengetahuan anda.
+* Anda juga dapat membaca tulisan saya mengenai UML ini di Medium saya, di [Unified Modeling Language](https://medium.com/@inesmediasosial/unified-modeling-language-uml-b3b66eee51c). Selain UML, juga terdapat konsep-konsep lain yang dapat anda baca dan semoga dapat bermanfaat bagi pengetahuan anda.
